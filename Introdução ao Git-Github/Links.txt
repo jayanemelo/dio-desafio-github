@@ -1,0 +1,6 @@
+DOWNLOAD GIT
+https://git-scm.com/
+
+DOWNLOAD TYPORA
+https://typora.io/
+
